@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>首页t</title>
+	<title>首页</title>
 	<meta name="viewport"
 		  content="width=device-width, initial-scale=1.0">
  	<!--	设置基准路径-->
@@ -20,8 +20,8 @@
 	</script>
 </head>
 <body>
-	<!--	多个页面使用，单独创建一个-->
-	<?php include 'header.php';?>
+	<!--多个页面使用，单独创建一个-->
+	<?php include"header.php";?>
 	<div id="banner"></div>
 	<div id="works"></div>
 	<div id="services"></div>
